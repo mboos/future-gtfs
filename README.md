@@ -3,14 +3,21 @@ Future GTFS
 
 Tool for augmenting GTFS datasets with potential future transit routes and service frequencies.
 
-Sample GTFS data provided is taken from the [Region of Waterloo Open Dataset](http://www.regionofwaterloo.ca/opendata "Contains information provided by the Regional Municipality of Waterloo under licence"), while the `sample.json` file is based on best guesses of future [Rapid Transit](http://rapidtransit.regionofwaterloo.ca/en/) and iXpress service with [Grand River Transit](http://www.grt.ca/).
+Sample GTFS data provided is taken from the 
+[Region of Waterloo Open Dataset](http://www.regionofwaterloo.ca/opendata 
+"Contains information provided by the Regional Municipality of Waterloo under licence"), 
+while the `sample.json` file is based on best-guesses of future 
+[Rapid Transit](http://rapidtransit.regionofwaterloo.ca/en/) and iXpress service with 
+[Grand River Transit](http://www.grt.ca/).
 
 Usage
 -----
 
 `createGTFS.py -j jsonfile -g gtfsDir -o outputDir`
 
-where `jsonfile` is a json file containing information about the stops and service frequencies of new routes, `gtfsDir` is the directory where the GTFS dataset resides, and `outputDir` is the directory where the newly generated GTFS dataset is to be written.
+where `jsonfile` is a json file containing information about the stops and service frequencies of new routes, 
+`gtfsDir` is the directory where the GTFS dataset resides, 
+and `outputDir` is the directory where the newly generated GTFS dataset is to be written.
 
 Note that outputDir will be completely overwritten by this command.
 
