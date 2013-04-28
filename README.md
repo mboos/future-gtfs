@@ -8,7 +8,7 @@ Usage
 
 `createGTFS.py -j jsonfile -g gtfsDir -o outputDir`
 
-where jsonfile is a json file containing information about the stops and service frequencies of new routes, gtfsDir is the directory where the GTFS dataset resides, and outputDir is the directory where the newly generated GTFS dataset is to be written.
+where `jsonfile` is a json file containing information about the stops and service frequencies of new routes, `gtfsDir` is the directory where the GTFS dataset resides, and `outputDir` is the directory where the newly generated GTFS dataset is to be written.
 
 Note that outputDir will be completely overwritten by this command.
 
