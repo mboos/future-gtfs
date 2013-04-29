@@ -649,119 +649,73 @@
                   "lat": "43.418652"
                },
                {
-                  "stop_id": "2105",
-                  "time_from_last": 116,
-                  "cumulative_time": 236
+                  "stop_id": "2105"
                },
                {
-                  "stop_id": "2881",
-                  "time_from_last": 129,
-                  "cumulative_time": 365
+                  "stop_id": "2881"
                },
                {
-                  "stop_id": "3189",
-                  "time_from_last": 45,
-                  "cumulative_time": 410
+                  "stop_id": "3189"
                },
                {
-                  "stop_id": "3895",
-                  "time_from_last": 56,
-                  "cumulative_time": 466
+                  "stop_id": "3895"
                },
                {
-                  "stop_id": "3893",
-                  "time_from_last": 65,
-                  "cumulative_time": 531
+                  "stop_id": "3893"
                },
                {
-                  "stop_id": "2969",
-                  "time_from_last": 30,
-                  "cumulative_time": 561
+                  "stop_id": "2969"
                },
                {
-                  "stop_id": "2971",
-                  "time_from_last": 63,
-                  "cumulative_time": 624
+                  "stop_id": "2971"
                },
                {
-                  "stop_id": "3892",
-                  "time_from_last": 82,
-                  "cumulative_time": 706
+                  "stop_id": "3892"
                },
                {
-                  "stop_id": "3170",
-                  "time_from_last": 67,
-                  "cumulative_time": 773
+                  "stop_id": "3170"
                },
                {
-                  "stop_id": "3169",
-                  "time_from_last": 235,
-                  "cumulative_time": 1008
+                  "stop_id": "3169"
                },
                {
-                  "stop_id": "3167",
-                  "time_from_last": 114,
-                  "cumulative_time": 1122
+                  "stop_id": "3167"
                },
                {
-                  "stop_id": "3165",
-                  "time_from_last": 192,
-                  "cumulative_time": 1314
+                  "stop_id": "3165"
                },
                {
-                  "stop_id": "1972",
-                  "time_from_last": 67,
-                  "cumulative_time": 1381
+                  "stop_id": "1972"
                },
                {
-                  "stop_id": "3162",
-                  "time_from_last": 63,
-                  "cumulative_time": 1444
+                  "stop_id": "3162"
                },
                {
-                  "stop_id": "3890",
-                  "time_from_last": 134,
-                  "cumulative_time": 1578
+                  "stop_id": "3890"
                },
                {
-                  "stop_id": "3460",
-                  "time_from_last": 72,
-                  "cumulative_time": 1650
+                  "stop_id": "1117"
                },
                {
-                  "stop_id": "3899",
-                  "time_from_last": 190,
-                  "cumulative_time": 1840
+                  "stop_id": "3899"
                },
                {
-                  "stop_id": "2521",
-                  "time_from_last": 51,
-                  "cumulative_time": 1891
+                  "stop_id": "2521"
                },
                {
-                  "stop_id": "2524",
-                  "time_from_last": 57,
-                  "cumulative_time": 1948
+                  "stop_id": "2524"
                },
                {
-                  "stop_id": "2509",
-                  "time_from_last": 40,
-                  "cumulative_time": 1988
+                  "stop_id": "2509"
                },
                {
-                  "stop_id": "1916",
-                  "time_from_last": 18,
-                  "cumulative_time": 2006
+                  "stop_id": "1916"
                },
                {
-                  "stop_id": "1918",
-                  "time_from_last": 57,
-                  "cumulative_time": 2063
+                  "stop_id": "1918"
                },
                {
-                  "stop_id": "3798",
-                  "time_from_last": 55,
-                  "cumulative_time": 2118
+                  "stop_id": "3798"
                }
             ]
          },
@@ -853,7 +807,7 @@
                   "stop_id": "3899"
                },
                {
-                  "stop_id": "3460"
+                  "stop_id": "1099"
                },
                {
                   "stop_id": "3890"
@@ -987,98 +941,74 @@
             ],
             "stops": [
                {
-                  "stop_id": "3908",
-                  "time_from_last": 0,
-                  "cumulative_time": 0
+                  "stop_id": "3908"
                },
                {
-                  "stop_id": "3904",
-                  "time_from_last": 130,
-                  "cumulative_time": 130
+                  "stop_id": "3904"
                },
                {
-                  "stop_id": "3905",
-                  "time_from_last": 40,
-                  "cumulative_time": 170
+                  "stop_id": "3905"
                },
                {
-                  "stop_id": "3686",
-                  "time_from_last": 35,
-                  "cumulative_time": 205
+                  "stop_id": "3686"
                },
                {
-                  "stop_id": "1994",
-                  "time_from_last": 103,
-                  "cumulative_time": 308
+                  "stop_id": "1994"
                },
                {
-                  "stop_id": "1997",
-                  "time_from_last": 49,
-                  "cumulative_time": 357
+                  "stop_id": "1997"
                },
                {
-                  "stop_id": "2787",
-                  "time_from_last": 297,
-                  "cumulative_time": 654
+                  "stop_id": "1999"
                },
                {
-                  "stop_id": "2788",
-                  "time_from_last": 29,
-                  "cumulative_time": 683
+                  "stop_id": "3683"
+               },
+               {
+                  "stop_id": "2675"
+               },
+               {
+                  "stop_id": "3620"
+               },
+               {
+                  "stop_id": "2787"
+               },
+               {
+                  "stop_id": "2788"
                },
                {
                   "lon": "-80.507896",
                   "name": "University / Lincoln",
-                  "cumulative_time": 737,
-                  "lat": "43.483486",
-                  "time_from_last": 54
+                  "lat": "43.483486"
                },
                {
                   "lon": "-80.494034",
                   "name": "University / Bridge",
-                  "cumulative_time": 834,
-                  "lat": "43.489414",
-                  "time_from_last": 97
+                  "lat": "43.489414"
                },
                {
-                  "stop_id": "3671",
-                  "time_from_last": 28,
-                  "cumulative_time": 862
+                  "stop_id": "3671"
                },
                {
-                  "stop_id": "3669",
-                  "time_from_last": 56,
-                  "cumulative_time": 918
+                  "stop_id": "3669"
                },
                {
-                  "stop_id": "2035",
-                  "time_from_last": 76,
-                  "cumulative_time": 994
+                  "stop_id": "2035"
                },
                {
-                  "stop_id": "3766",
-                  "time_from_last": 86,
-                  "cumulative_time": 1080
+                  "stop_id": "3766"
                },
                {
-                  "stop_id": "3765",
-                  "time_from_last": 154,
-                  "cumulative_time": 1234
+                  "stop_id": "3765"
                },
                {
-                  "stop_id": "3763",
-                  "time_from_last": 130,
-                  "cumulative_time": 1364
+                  "stop_id": "3763"
                },
                {
-                  "stop_id": "3756",
-                  "time_from_last": 98,
-                  "cumulative_time": 1462
+                  "stop_id": "3756"
                },
                {
-                  "stop_id": "3798",
-                  "time_from_last": 233,
-                  "cumulative_time": 1695
+                  "stop_id": "3798"
                }
             ]
          },
@@ -1187,6 +1117,15 @@
                },
                {
                   "stop_id": "2670"
+               },
+               {
+                  "stop_id": "1167"
+               },
+               {
+                  "stop_id": "3943"
+               },
+               {
+                  "stop_id": "1090"
                },
                {
                   "stop_id": "1966"
