@@ -90,3 +90,5 @@ JSON input file
        },
        ...
     ]
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/746f247493a1d600b46a8f0641409571 "githalytics.com")](http://githalytics.com/mboos/future-gtfs)
